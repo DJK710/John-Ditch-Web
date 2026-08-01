@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 850">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="1" x2="1" y2="0">
+      <stop stop-color="#08080a"/><stop offset=".5" stop-color="#5f00ff"/><stop offset="1" stop-color="#ff3d00"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="850" fill="url(#bg)"/>
+  <g fill="#fff" opacity=".12">
+    <circle cx="180" cy="690" r="100"/><circle cx="410" cy="720" r="135"/><circle cx="720" cy="680" r="115"/><circle cx="1010" cy="710" r="145"/><circle cx="1280" cy="690" r="100"/>
+  </g>
+  <text x="70" y="130" fill="#fff" font-family="Arial, sans-serif" font-size="64" font-weight="700">ADD LIVE / SETUP PHOTO</text>
+  <text x="74" y="198" fill="#ddd7e5" font-family="Arial, sans-serif" font-size="30">images/john-ditch-live.jpg</text>
+</svg>
